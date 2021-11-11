@@ -40,7 +40,8 @@ Database Tier:
 One physical server (Eight CPUs / 32-GB memory / 5-TB storage)
 
 
-![image](https://user-images.githubusercontent.com/53853127/97471624-4d825600-191f-11eb-8e0f-649817fd7334.png)
+![image](https://user-images.githubusercontent.com/53853127/141351405-09c6eba5-9ebe-431c-8ce7-db7f3ed05011.png)
+
 
 **Requirements:**
 Access permissions to the authorized users based on their roles.
