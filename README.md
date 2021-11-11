@@ -40,7 +40,7 @@ Database Tier:
 One physical server (Eight CPUs / 32-GB memory / 5-TB storage)
 
 
-Current Architecture[https://user-images.githubusercontent.com/53853127/97471624-4d825600-191f-11eb-8e0f-649817fd7334.png]
+![image](https://user-images.githubusercontent.com/53853127/97471624-4d825600-191f-11eb-8e0f-649817fd7334.png)
 
 **Requirements:**
 Access permissions to the authorized users based on their roles.
@@ -59,25 +59,22 @@ Multi-AZ deployment for RDS instances.
 Amazon Textract managed services to extract documents.
 
 **AWS Services Used:**
-[https://user-images.githubusercontent.com/53853127/141350292-86fd2ec3-cbe9-494c-9ccd-337e44f413f2.png]
+![image](https://user-images.githubusercontent.com/53853127/141350292-86fd2ec3-cbe9-494c-9ccd-337e44f413f2.png)
 
-**AWS Final Architecture:**
-[https://u![Uploading Screen Shot 2021-11-11 at 1.30.35 PM.png…]()
-ser-images.githubusercontent.com/53853127/141350423-62d0b2a3-a55d-4ae0-886d-9dfaacbf0ca0.png]
 
 **User Authentication**
-[https://user-images.githubusercontent.com/53853127/141350527-a9a79f48-cbfa-428d-98ca-0076641877a1.png]
+![image](https://user-images.githubusercontent.com/53853127/141350527-a9a79f48-cbfa-428d-98ca-0076641877a1.png)
 
-[https://user-images.githubusercontent.com/53853127/141350616-17d7e6c3-90e8-479f-b296-5282ce99ab38.png]
+![image](https://user-images.githubusercontent.com/53853127/141350616-17d7e6c3-90e8-479f-b296-5282ce99ab38.png)
 
-[https://user-images.githubusercontent.com/53853127/141350678-b2a7c828-d6de-4e03-a5c8-e43d23fea6ea.png]
+![image](https://user-images.githubusercontent.com/53853127/141350678-b2a7c828-d6de-4e03-a5c8-e43d23fea6ea.png)
 
-[https://user-images.githubusercontent.com/53853127/141350736-2e4ceec0-a6e2-49c7-9be2-c65508f067d7.png]
+![image](https://user-images.githubusercontent.com/53853127/141350736-2e4ceec0-a6e2-49c7-9be2-c65508f067d7.png)
 
 
-[https://user-images.githubusercontent.com/53853127/141350804-90508218-b4bb-41a8-9990-094ae6374801.png]
+![image](https://user-images.githubusercontent.com/53853127/141350804-90508218-b4bb-41a8-9990-094ae6374801.png)
 
-[https://user-images.githubusercontent.com/53853127/141350851-d38cff4e-bcbb-4ab2-883a-dffb7566b906.png]
+![image](https://user-images.githubusercontent.com/53853127/141350851-d38cff4e-bcbb-4ab2-883a-dffb7566b906.png)
 
 **Monitoring:**
 AWS Cloud Watch: Monitoring
