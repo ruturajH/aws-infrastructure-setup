@@ -4,7 +4,7 @@
 **Project  – Designing a Cloud Solution for a Medical Startup Company**
 
 **AWS Final Architecture:**
-[https://u![Uploading Screen Shot 2021-11-11 at 1.30.35 PM.png…]()
+![image][https://u![Uploading Screen Shot 2021-11-11 at 1.30.35 PM.png…]()
 ser-images.githubusercontent.com/53853127/141350423-62d0b2a3-a55d-4ae0-886d-9dfaacbf0ca0.png]
 
 Please read ahead for more specification related to architecture and details in depth:
